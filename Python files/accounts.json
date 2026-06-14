@@ -1,0 +1,24 @@
+{
+    "madu": {
+        "owner": "madu",
+        "password": "123",
+        "balance": 45000.0,
+        "history": [
+            "Deposited $100000.0",
+            "Withdrew $35000.0",
+            "Withdrew $20000.0"
+        ]
+    },
+    "admin": {
+        "owner": "admin",
+        "password": "123",
+        "balance": 0,
+        "history": []
+    },
+    "anura": {
+        "owner": "anura",
+        "password": "123",
+        "balance": 0,
+        "history": []
+    }
+}
